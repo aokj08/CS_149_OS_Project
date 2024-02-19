@@ -173,9 +173,6 @@ void fork(int value)
 // Implements the R op.
 void replace(string &argument)
 {
-/*
-    Not sure if this implementation is correct
-*/
     cout << "Running Replace" << endl;
     // TODO: Implement
     // 1. Clear the CPU's program (cpu.pProgram->clear()).
